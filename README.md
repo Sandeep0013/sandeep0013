@@ -3,13 +3,13 @@
 
 Email Me 👉 ✉️ **sardarsandeep0019@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:**Designing an E-Commerce Website
-- 🌱 **I’m currently learning:** Full-Stack 
-- 👯 **I’m looking to collaborate on:**Frontend Projects
-- 💬 **Ask me about:**My Tech Skills
-- 📫 **How to reach me:** sardarsandeep0019@gmail.com
-- 😄 **Pronouns:** Sandeep/Sandy
-- ⚡ **Fun fact:** I Love to Build Design 
+- 🔭 I’m currently working on:Designing an E-Commerce Website
+- 🌱 I’m currently learning: Full-Stack 
+- 👯 I’m looking to collaborate on:Frontend Projects
+- 💬 Ask me about:My Tech Skills
+- 📫 How to reach me:sardarsandeep0019@gmail.com
+- 😄 Pronouns:Sandeep/Sandy
+- ⚡ Fun fact:I Love to Build Design 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_san_deep27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/15sandeep-singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sardarsandeep0019@gmail.com) 
